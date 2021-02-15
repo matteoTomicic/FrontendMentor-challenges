@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
-#Live preview => https://huddle-landing-page-seven-gray.vercel.app/
+# Live preview => https://huddle-landing-page-seven-gray.vercel.app/
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
