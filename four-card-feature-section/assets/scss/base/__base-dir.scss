@@ -1,13 +1,9 @@
-* {
-    padding: 0;
-    margin: 0;
-}
-
-html {
-    font-size: 62.5%; // Sets root font size to 10px, cause of easier calculation to rems
-}
+@import "typography";
 
 body {
-    font-size: 1.5rem; // 15px
-    font-family: $poppins;
+   background: $light-gray;
+}
+
+.new-line-heading {
+   display: block; 
 }
