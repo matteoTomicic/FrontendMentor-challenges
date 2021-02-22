@@ -1,0 +1,6 @@
+@import "typography";
+
+body {
+    @include gradientBackground();
+    height: 100vh;
+}
