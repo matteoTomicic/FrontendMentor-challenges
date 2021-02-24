@@ -51,5 +51,17 @@
                 display: block;
             }
         }
+
+        &.active {
+            .faq__question {
+                &::after {
+                    transform: rotateX(180deg);
+                }
+            }
+
+            .faq__answer {
+                display: block;
+            } 
+        }
     }
 }

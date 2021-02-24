@@ -87,4 +87,13 @@ body {
 .faq .faq__qA .faq__answer.faq__answer--active {
   display: block;
 }
+
+.faq .faq__qA.active .faq__question::after {
+  -webkit-transform: rotateX(180deg);
+          transform: rotateX(180deg);
+}
+
+.faq .faq__qA.active .faq__answer {
+  display: block;
+}
 /*# sourceMappingURL=main.css.map */
